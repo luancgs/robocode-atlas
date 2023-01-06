@@ -16,7 +16,6 @@ public class Atlas extends AdvancedRobot {
   static final int STRATEGY_BATTLE_ROYALE = 1;
   static final int STRATEGY_LAST_STAND = 2;
   int strategy;
-  boolean lastStand;
   double gunTurn;
   int idle;
 
